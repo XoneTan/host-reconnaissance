@@ -4,7 +4,6 @@ Wirandy Indrawan - 2301847291
 
 import base64
 import requests
-import os
 import platform
 import sys
 from subprocess import PIPE 
