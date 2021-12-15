@@ -1,0 +1,4 @@
+setganography:
+https://docs.replit.com/tutorials/13-steganography
+imgut python upload automation:
+https://github.com/vprusso/youtube_tutorials/tree/master/imgur_python
